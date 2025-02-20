@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "nombreSuperHeroe": "Spiderman",
+        "nombreSuperheroe": "Spiderman",
         "nombreReal": "Peter Parker",
         "nombreSociedad":"Vigilante",
         "edad": 25,
@@ -14,7 +14,7 @@
     },
     {
         "id": 2,
-        "nombreSuperHeroe": "Ironman",
+        "nombreSuperheroe": "Ironman",
         "nombreReal": "Tony Stark",
         "nombreSociedad":"Vigilante",
         "edad": 45,
@@ -27,7 +27,7 @@
     },
         {
         "id": 3,
-        "nombreSuperHeroe": "Thor",
+        "nombreSuperheroe": "Thor",
         "nombreReal": "Thor Odison",
         "nombreSociedad":"Dios del Trueno",
         "edad": 1000,
